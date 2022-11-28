@@ -1,2 +1,2 @@
-# Crash_Course_Python_2021
+# Crash Data Science Pythom
 Curso super rápido de python
